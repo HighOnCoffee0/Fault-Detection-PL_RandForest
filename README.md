@@ -1,4 +1,4 @@
-# Transmission Line Fault Detection & Classification using Random Forest (MATLAB)
+# Fault Detection & Classification in Power Line using Random Forest (MATLAB)
 
 An interactive MATLAB app that detects and classifies faults on transmission lines using a **Random Forest** (`TreeBagger`) classifier. The whole workflow, from loading data to training, testing, saving the model and predicting on live inputs, runs through a single GUI built with `uifigure`.
 
