@@ -96,6 +96,6 @@ Rows with missing values are dropped on load.
 | Test accuracy | _98.18 %_ |
 | Average F1-score | _96.76 %_ |
 
-![GUI screenshot](images/gui.png)
+![GUI screenshot](Output.png)
 
 ---
