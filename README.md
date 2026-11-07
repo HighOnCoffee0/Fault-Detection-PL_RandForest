@@ -25,8 +25,7 @@ An interactive MATLAB app that detects and classifies faults on transmission lin
 ```
 .
 ├── Project.mlx                 
-├── Dataset/
-│   └── Dataset.txt
+├── Dataset.txt
 └── README.md
 ```
 
